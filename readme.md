@@ -29,5 +29,4 @@
   [x] Do ASAC assignments 
   [ ] Do workouts 
 
-
-
+#### I always remind myself to be in a growth mindset by writing every motivational ideas and sentence in my notes and on my room's wall like NO PAIN NO GAIN,  working hard will always pay off, and fly above the negativity. 
