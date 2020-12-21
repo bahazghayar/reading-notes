@@ -10,9 +10,7 @@
 
  
 |         Table of contents     |
-|                 |             |
 |      :----:     |    :----:   |
-|||
 |   Reads         |    Links    |
 |                 |             | 
 |   Read1         |             |
