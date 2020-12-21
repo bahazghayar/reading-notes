@@ -30,3 +30,15 @@
   - [ ] Do workouts 
 
 #### I always remind myself to be in a growth mindset by writing every motivational ideas and sentence in my notes and on my room's wall like NO PAIN NO GAIN,  working hard will always pay off, and fly above the negativity. 
+
+
+
+##### I am Baha Zghayar
+##### From Hebron- Palestine
+##### I am 23 years old
+##### I studied mechanical engineering at Philadelphia university
+##### I have experience in solar systems
+###### My interests are in psychology and coding.
+
+##### My GitHub protfolio page 
+          (https://github.com/bahazghayar )
