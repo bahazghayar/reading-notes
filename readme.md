@@ -7,13 +7,10 @@
 #### I have experience in solar systems
 #### My interests are in psychology and coding.
 
-
- 
-|         Table of contents     |
-|-------------------------------|       
-|   Reads         |    Links    |
-|-----------------|-------------| 
-|   Read1         |             |
-|   Read2         |             |
-|   Read3         |             |
-| Growth mindset  |             | 
+### Table of contents: 
+|     Reads            |        Links         |
+|:--------------------:|:--------------------:|
+|     Read1            |                      |
+|     Read2            |                      |
+|     Read3            |                      |
+|     Growth mindset   |                      |  
