@@ -38,7 +38,7 @@
 ##### I am 23 years old
 ##### I studied mechanical engineering at Philadelphia university
 ##### I have experience in solar systems
-###### My interests are in psychology and coding.
+##### My interests are in psychology and coding.
 
 ##### My GitHub protfolio page 
           (https://github.com/bahazghayar )
