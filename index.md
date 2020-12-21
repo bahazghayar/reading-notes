@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# **Growth mindset**
+## *be ready to change your way of thinking* :EMOJICODE:
 
-You can use the [editor on GitHub](https://github.com/bahazghayar/reading-notes/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+#### The question is how can you live without a growth mindset? 
+#### I bet that your life is so boring without goals, challenges, and achievements. 
+#### All of us need to make our own growth mindset, put goals, challenge ourselves, maybe you won't achieve all of your goals, but you will be so happy and satisfied with the goals you had achieved. 
+#### Don't say I am not smart or I don't have a talent, this is the easy thing to do, be insist on improving yourself and keep trying, trust me it will pay off somehow. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### I will tell you some differences between growth and a fixed mindset, and you decide which one you want to be. 
 
-### Markdown
+- Growth mindset 
+    1. Embraces challenges 
+    2. Inspires by success of others  
+    3. Learns from criticism 
+    
+- Fixed mindset 
+    1. Avoids challenges 
+    2. View success of others as a threat 
+    3. Ignores criticims 
+    
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### So now its obvious which one you want to be, success is not easy at all. 
 
-```markdown
-Syntax highlighted code block
+#### you need to put effort to face your challenges and obstacles, then every day ask yourself what you have learned on that day, which problems you faced could solve better.
 
-# Header 1
-## Header 2
-### Header 3
+### Make a table about what you have to do each day and tick what you have done when you did it 
 
-- Bulleted
-- List
+  [x] Pray, Eat my breakfast 
+  [x] Do ASAC assignments 
+  [ ] Do workouts 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bahazghayar/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
