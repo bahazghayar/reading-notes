@@ -25,8 +25,8 @@
 
 ### Make a table about what you have to do each day and tick what you have done when you did it 
 
-  [x] Pray, Eat my breakfast 
-  [x] Do ASAC assignments 
-  [ ] Do workouts 
+  - [x] Pray, Eat my breakfast 
+  - [x] Do ASAC assignments 
+  - [ ] Do workouts 
 
 #### I always remind myself to be in a growth mindset by writing every motivational ideas and sentence in my notes and on my room's wall like NO PAIN NO GAIN,  working hard will always pay off, and fly above the negativity. 
