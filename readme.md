@@ -40,5 +40,4 @@
 ##### I have experience in solar systems
 ##### My interests are in psychology and coding.
 
-##### My GitHub protfolio page 
-          [( https://github.com/bahazghayar )]
+##### [My GitHub protfolio page]( https://github.com/bahazghayar )
