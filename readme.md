@@ -1,5 +1,5 @@
 # **Growth mindset**
-## *be ready to change your way of thinking* :EMOJICODE:
+## *be ready to change your way of thinking* :+1:
 
 #### The question is how can you live without a growth mindset? 
 #### I bet that your life is so boring without goals, challenges, and achievements. 
