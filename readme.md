@@ -8,8 +8,8 @@
 #### My interests are in psychology and coding.
 
 ### Table of contents: 
-|     Reads            |        Links                                                                                |
-|:--------------------:|:------------------------------------------------------------------------------------------: |
+|     Reads            |        Links                                                                                   |
+|:--------------------:|:------------------------------------------------------------------------------------------:    |
 |     Read1            |  [read1 link](https://github.com/bahazghayar/reading-notes/blob/main/read1.md/)                |
 |     Read2            |  [read2 link](https://github.com/bahazghayar/reading-notes/blob/main/read2.md/)                |
 |     Read3            |  [read3 link](https://github.com/bahazghayar/reading-notes/blob/main/read3.md/)                |
