@@ -1,6 +1,6 @@
 
 
-<h2>How to make an attractive site </h2>
+How to make an attractive site 
 
 literally, you need to know almost everything about your target audience and companies, you need to put yourself in their shoes and think about what you should do to make your site better and better and what your visitors need, or maybe they are looking for specific things, maybe entertainments or information, you need to help them quickly and effectively. 
 
