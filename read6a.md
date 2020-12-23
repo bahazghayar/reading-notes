@@ -11,7 +11,7 @@
          * write.('Hello') is a method.
          * 'Hello' is a parameter. 
     
-   ## <script> : 
+   ## script: 
         it used to load the JavaScript file in HTML pages 
-   ##  <link> :  
+   ## link:  
         it used to load a CSS file 
