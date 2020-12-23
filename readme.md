@@ -16,3 +16,4 @@
 |     Read3            |  [read3 link](https://bahazghayar.github.io/reading-notes/read3)                               |
 |     Growth mindset   |  [Growth mindset](https://bahazghayar.github.io/reading-notes/growthmindset)                   |  
 |     Read4            |  [read4 link](https://bahazghayar.github.io/reading-notes/read4)                               | 
+|     Read6a           |  [read6a link](https://bahazghayar.github.io/reading-notes/read6a)                             | 
