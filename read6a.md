@@ -7,10 +7,10 @@ A script is made from a lot of statements, it contains instructions from the pro
 
 Method of an object:   Document.write('Hello');  
 
-  * Document is an object 
-  * The dot (.) is an member operator 
-  * write.('Hello') is a method 
-  * 'Hello' is a parameter 
+* Document is an object 
+* The dot (.) is an member operator 
+* write.('Hello') is a method 
+* 'Hello' is a parameter 
 
 ### script: it used to load the JavaScript file in HTML pages 
 
