@@ -4,7 +4,7 @@
 
     A script is made from a lot of statements, it contains instructions from the programmer, and you will use variables to store information used in the syntax. 
 
-    Method of an object:   Document.write('Hello');  
+    **Method of an object:**   Document.write('Hello');  
         
          * Document is an object. 
          * The dot (.) is an member operator.
