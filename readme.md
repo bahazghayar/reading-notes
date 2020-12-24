@@ -18,3 +18,4 @@
 |     Read4            |  [read4 link](https://bahazghayar.github.io/reading-notes/read4)                               | 
 |     Read6a           |  [read6a link](https://bahazghayar.github.io/reading-notes/read6a)                             | 
 |     Read6b           |  [read6b link](https://bahazghayar.github.io/reading-notes/read6b)                             | 
+|     Read7            |  [read7 link](https://bahazghayar.github.io/reading-notes/read7)                               | 
