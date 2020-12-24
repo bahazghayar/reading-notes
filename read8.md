@@ -3,21 +3,21 @@
 ### When you evaluate a condition by comparison operators the result will be a boolean which means true or false. 
 
 #### **Comparison operators:**
-  * == : is equal to 
-  * != : is not equal to 
-  * === : strict equal to
-  * !== : strict not equal to 
-  * > : greater than 
-  * < : less than 
-  * >= : greater than or equal to 
-  * <= : less than or equal to 
+  * #### == : is equal to 
+  * #### != : is not equal to 
+  * #### === : strict equal to
+  * #### !== : strict not equal to 
+  * #### > : greater than 
+  * #### < : less than 
+  * #### >= : greater than or equal to 
+  * #### <= : less than or equal to 
 
 # **Logical operators:**
 ### Allow you to compare more than one condition
 
- * && : and 
- * || : or 
- * ! : not 
+ * #### && : and 
+ * #### || : or 
+ * #### ! : not 
 
 # **Loops**
 
