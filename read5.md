@@ -8,7 +8,7 @@
 ### * Selector: indicates which element the rule applies to. 
 ### * Declaration: indicates how the element should be styled
 
-## p {
+## p { 
 ## font-family: Arial;} 
 
 ### And there are many types of selectors you can use at different elements. 
@@ -18,8 +18,8 @@
 ### You can bring your pages to life by using colors, it allows you to specify the color of backgrounds and the text. 
 
 ## Three ways to specify colors: 
-### 1. ### RGB values 
-### 2. ### HEX codes 
-### 3. ### Color names 
+### 1. RGB values 
+### 2. HEX codes 
+### 3. Color names 
 
 ### Make sure that there is enough contrast between backgrounds and the text colors.
