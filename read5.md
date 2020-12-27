@@ -5,8 +5,8 @@
 ### Each part of your page will be a separate box, and you can control the design of each one of them. 
 
 ## CSS rule: 
-### * Selector: indicates which element the rule applies to. 
-### * Declaration: indicates how the element should be styled
+### *Selector: indicates which element the rule applies to. 
+### *Declaration: indicates how the element should be styled
 
 ## p { 
 ## font-family: Arial;} 
