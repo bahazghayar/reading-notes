@@ -7,7 +7,7 @@
 
 ## "A room without books is like a body without a soul"
 
-#### This summaries is what i added to my experience. 
+#### This summaries are what i added to my experience. 
 #### Each link contains a summary of what i read each day in this course. 
 
 
