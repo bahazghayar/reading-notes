@@ -20,8 +20,7 @@
 `<blockquote>`: for long quotes.
 `<q>`: for short quotes. 
 
-#### if you want to make abbreviations and acronyms use 
-`<abbr>` 
+#### if you want to make abbreviations and acronyms use `<abbr>`, 
 `<cite>` for citations 
 `<dfn>` for definitions 
 `<address>` for author details and it can contain an email or phone number
