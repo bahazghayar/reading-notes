@@ -2,30 +2,23 @@
 # ***TEXT***
 #### There are six levels of headings, we usually use **h1** for *main headings* and **h2** for *subheadings*, and **h6** is *the smallest one*.
 
-#### When we want to write a paragraph we use an opening p tag and closing p tag
-`<p>    </p>`
-#### if you want to modify your text you can use i tag for italic `<i>`
-`<b>` for bold 
-`<sup>` for characters that should be superscript
-`<sub>` for characters that should be subscript
-`<br />` for line breaks
-`<hr />` for horizontal rules
+#### When we want to write a paragraph we use an opening p tag and closing p tag `<p>    </p>`, if you want to modify your text you can use i tag for italic `<i>`, `<b>` for bold, `<sup>` for characters that should be superscript, `<sub>` for characters that should be subscript ,`<br />` for line breaks ,and `<hr />` for horizontal rules. 
 
 #### ***Semantic markup***: it adds extra information to the web pages but it doesn't affect the structure of the web pages.
 
-`<strong>`:  its content is so important, it will be bold.
+`<strong>`:  its content is so important, it will be bold. <br />
 `<em>`:  it subtly changes the meaning of a sentence, it will be italic.
 
 #### we use for quotations: 
-`<blockquote>`: for long quotes.
-`<q>`: for short quotes. 
+* `<blockquote>`: for long quotes. <br />
+* `<q>`: for short quotes. 
 
-#### if you want to make abbreviations and acronyms use `<abbr>`, 
-`<cite>` for citations 
-`<dfn>` for definitions 
-`<address>` for author details and it can contain an email or phone number
-`<ins>` for inserted document
-`<del>` for deleted text
+#### if you want to make abbreviations and acronyms use `<abbr>`. 
+`<cite>` for citations <br />
+`<dfn>` for definitions <br />
+`<address>` for author details and it can contain an email or phone number <br />
+`<ins>` for inserted document <br />
+`<del>` for deleted text <br />
 
 
 
