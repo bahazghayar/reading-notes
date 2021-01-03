@@ -3,31 +3,30 @@
 #### There are six levels of headings, we usually use **h1** for *main headings* and **h2** for *subheadings*, and **h6** is *the smallest one*.
 
 #### When we want to write a paragraph we use an opening p tag and closing p tag
-> <p>    </p>
-#### if you want to modify your text you can use i tag for italic
-> <i> 
-> <b> for bold 
-> <sup> for characters that should be superscript
-> <sub> for characters that should be subscript
-> <br /> for line breaks
-> <hr /> for horizontal rules
+`<p>    </p>`
+#### if you want to modify your text you can use i tag for italic `<i>`
+`<b>` for bold 
+`<sup>` for characters that should be superscript
+`<sub>` for characters that should be subscript
+`<br />` for line breaks
+`<hr />` for horizontal rules
 
 #### ***Semantic markup***: it adds extra information to the web pages but it doesn't affect the structure of the web pages.
 
-> <strong>:  its content is so important, it will be bold.
-> <em>:  it subtly changes the meaning of a sentence, it will be italic.
+`<strong>`:  its content is so important, it will be bold.
+`<em>`:  it subtly changes the meaning of a sentence, it will be italic.
 
 #### we use for quotations: 
-> <blockquote>: for long quotes.
-> <q>: for short quotes. 
+`<blockquote>`: for long quotes.
+`<q>`: for short quotes. 
 
 #### if you want to make abbreviations and acronyms use 
-> <abbr> 
-> <cite> for citations 
-> <dfn> for definitions 
-> <address> for author details and it can contain an email or phone number
-> <ins> for inserted document
-> <del> for deleted text
+`<abbr>` 
+`<cite>` for citations 
+`<dfn>` for definitions 
+`<address>` for author details and it can contain an email or phone number
+`<ins>` for inserted document
+`<del>` for deleted text
 
 
 
@@ -41,7 +40,7 @@
 - #### Declaration: indicates how the element should be styled.
 
 #### p { 
-#### font-family: Arial;} 
+####    font-family: Arial;}
 
 #### And there are many types of selectors you can use at different elements.
 
@@ -60,7 +59,7 @@
 2. #### Single-line comment  // comment goes here
 
 #### Declaring and assigning a variable: 
-> #### var username = Baha ; 
+`var username = Baha ;`
 #### There are rules for naming a variable you have to follow always, and you can change the value of the variable. 
 
 #### **Data types:** 
