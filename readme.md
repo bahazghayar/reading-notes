@@ -37,7 +37,7 @@
 |:--------------------:|:------------------------------------------------------------------------------------------:    |
 |     Read1            |     [read1 link](https://bahazghayar.github.io/reading-notes/class-01)                         |
 |     Read2            |     [read2 link](https://bahazghayar.github.io/reading-notes/class-02)                         |
-|     Read3            |                                                                                                |
+|     Read3            |     [read3 link](https://bahazghayar.github.io/reading-notes/class-03)                         |
 |     Read4            |                                                                                                |  
 |     Read5            |                                                                                                | 
 |     Read6            |                                                                                                | 
