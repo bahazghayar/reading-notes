@@ -1,6 +1,6 @@
 # **Images**
 
-if you want to *describe anything*, is there any better way other than using *images* ? 
+if you want to *describe anything*, is there any better way other than using *images* ? <br />
 So we use the `<img>` element to add images to a web page. 
 
 ### How to add images? 
@@ -9,7 +9,7 @@ So we use the `<img>` element to add images to a web page.
                     marsupial that is similar in size to the
                     domestic cat." />
 
-**src attribute**: indicate the source of an image.
+**src attribute**: indicate the source of an image. <br />
 **alt attribute**: describe the content of an image.
 
 You can modify the *height* and the *width* of any image, align it **horizontally** or **vertically**, crop it, 
