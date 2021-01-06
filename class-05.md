@@ -3,7 +3,7 @@
 if you want to *describe anything*, is there any better way other than using *images* ? 
 So we use the `<img>` element to add images to a web page. 
 
-How to add images? 
+### How to add images? 
                   <img src="images/quokka.jpg" alt="A family of
                     quokka" title="The quokka is an Australian
                     marsupial that is similar in size to the
@@ -55,7 +55,6 @@ You control the choice of font, size, weight, style, and spacing. You can align 
 * Ems. 
 
 ### **Attribute Selectors:**
-
 * Existence   `[ ]`
 * Equality    `[=]`
 * Space       `[~=]`
