@@ -10,7 +10,7 @@ In fact, ***programming*** is easy if you understand the ***problem domain***, t
 
 ### You can cut off the problem into several parts, then focus on a particular part.
 
-<br>
+
 
 
 # ***Object Literals***
@@ -26,7 +26,7 @@ In an object, ***variables*** become known as ***properties*** of the object, an
             value: 'Baha' 
 
 ### Methods (functions): have a name and a value.
-<br>
+
 
 You can ***create objects*** by using ***literal notation***, it's the easiest way, and you can access properties or methods by using ***dot notation***, also you can access properties by ***square brackets***.
 
@@ -35,12 +35,12 @@ You can ***create objects*** by using ***literal notation***, it's the easiest w
      var roomsFree =  hotel.checkAvailability ( ) ; 
 
      var hotelName = hotel['Name'] ;
-<br>
+
 
 # ***Document object model***
 
 ***The document object model*** is a separate set of rules about making a model of the HTML page ***(DOM tree)*** and accessing and changing the HTML page by JavaScript, of course, it's not a part of HTML nor JavaScript.
-<br>
+
 Browsers represent the web page using a DOM tree and it offers tools for viewing it.
 
 ### DOM trees have four types of nodes:
@@ -48,7 +48,7 @@ Browsers represent the web page using a DOM tree and it offers tools for viewing
 * Element nodes.
 * Attribute nodes.
 * Text nodes.
-<br>
+
 
 ### How you can select element nodes:
 1. ID attribute.
@@ -56,7 +56,7 @@ Browsers represent the web page using a DOM tree and it offers tools for viewing
 3. Tag name.
 4. CSS selector syntax.
 
-<br>
+
 
 The DOM query will return a ***Nodelist*** if it can return more than one node. 
 
