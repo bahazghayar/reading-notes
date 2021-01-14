@@ -44,7 +44,7 @@
 |     Read7            |     [read7 link](https://bahazghayar.github.io/reading-notes/class-07)                         | 
 |     Read8            |     [read8 link](https://bahazghayar.github.io/reading-notes/class-08)                         | 
 |     Read9            |     [read9 link](https://bahazghayar.github.io/reading-notes/class-09)                         | 
-|     Read10           |                                                                                                | 
+|     Read10           |     [read10 link](https://bahazghayar.github.io/reading-notes/class-10)                        | 
 |     Read11           |                                                                                                | 
 |     Read12           |                                                                                                |
 |     Read13           |                                                                                                |
