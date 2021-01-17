@@ -49,11 +49,7 @@ You have to obtain a **domain name** and **web hosting** in order to put your si
 6. Image alt text.
 7. Page descriptions. 
 
-<be>
-
 **Analytics tools** such as *Google analytics* allow you to know how many users visit your site.
-
-<br>
 
 #### How to choose the best keywords: 
 * Brainstorm.
