@@ -18,12 +18,11 @@ You can make charts by using **chart.js** *( it use HTML5 canvas elements to dra
 * *Pie charts*. 
 and more. 
 
-<br>
 
 **HTML file:**
-                    <canvas id="stockGraph" width="150" height="150">
-                           current stock price: $3.15 + 0.15
-                    </canvas>
+                    `<canvas id="stockGraph" width="150" height="150">`
+                           `current stock price: $3.15 + 0.15`
+                    `</canvas>`
 
 <br>
 
