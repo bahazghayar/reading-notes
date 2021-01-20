@@ -1,6 +1,6 @@
 #### My name is Baha aldeen Zghayar
 #### From Hebron - Palestine
-#### I am 23 years old
+#### I am 24 years old
 #### I studied mechanical engineering at Philadelphia university
 #### I have experience in solar systems
 #### My interests are in psychology and coding.
@@ -48,5 +48,6 @@
 |     Read11           |     [read11 link](https://bahazghayar.github.io/reading-notes/class-11)                        | 
 |     Read12           |     [read12 link](https://bahazghayar.github.io/reading-notes/class-12)                        |
 |     Read13           |     [read13 link](https://bahazghayar.github.io/reading-notes/class-13)                        |
-|     Read14           |                                                                                                |
+|     Read14a          |     [read14a link](https://bahazghayar.github.io/reading-notes/class-14a)                      |
+|     Read14b          |     [read14b link](https://bahazghayar.github.io/reading-notes/class-14b)                      |
 |     Read15           |                                                                                                |
