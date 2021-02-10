@@ -1,17 +1,20 @@
+# **Reading Notes**
+<br>
+
 #### My name is Baha aldeen Zghayar
-#### From Hebron - Palestine
-#### I am 24 years old
-#### I studied mechanical engineering at Philadelphia university
-#### I have experience in solar systems
-#### My interests are in psychology and coding.
+#### From Hebron - Palestine.
+#### I am 24 years old.
+#### I studied mechanical engineering at Philadelphia university.
+#### Interested in psychology and coding.
 
 ## "A room without books is like a body without a soul"
 
-#### Those summaries are what i added to my experience. 
+#### Those summaries are what i added to my knowledge. 
 #### Each link contains a summary of what i read each day in this course. 
 
+<br>
 
-## ***Code 102 Reading Notes:***
+## **Code 102 - Intro to Software Development:**
 
 ### Table Of Contents: 
 
@@ -28,8 +31,9 @@
 |     Read7            |  [read7 link](https://bahazghayar.github.io/reading-notes/read7)                               | 
 |     Read8            |  [read8 link](https://bahazghayar.github.io/reading-notes/read8)                               | 
 
+<br>
 
-## ***Code 201 Reading Notes:*** 
+## **Code 201 - Foundations of Software Development:**
 
 ### Table Of Contents: 
 
@@ -51,3 +55,13 @@
 |     Read14a          |     [read14a link](https://bahazghayar.github.io/reading-notes/class-14a)                      |
 |     Read14b          |     [read14b link](https://bahazghayar.github.io/reading-notes/class-14b)                      |
 |     Read15           |                                                                                                |
+
+<br>
+
+## **Code 301 - Intermediate Software Development:**
+
+### Table Of Contents:
+
+|     Reads            |        Links                                                                                   |
+|:--------------------:|:------------------------------------------------------------------------------------------:    |
+|     Read1            |     [read1 link]()                                                                             |
