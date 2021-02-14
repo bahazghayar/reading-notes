@@ -64,4 +64,4 @@
 
 |     Reads            |        Links                                                                                   |
 |:--------------------:|:------------------------------------------------------------------------------------------:    |
-|     Read01           |     [read01 link]()                                                                            |
+|     Read01           |     [read01 link](https://bahazghayar.github.io/reading-notes/read01)                          |
