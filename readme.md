@@ -54,7 +54,7 @@
 |     Read13           |     [read13 link](https://bahazghayar.github.io/reading-notes/class-13)                        |
 |     Read14a          |     [read14a link](https://bahazghayar.github.io/reading-notes/class-14a)                      |
 |     Read14b          |     [read14b link](https://bahazghayar.github.io/reading-notes/class-14b)                      |
-|     Read15           |                                                                                                |
+
 
 <br>
 

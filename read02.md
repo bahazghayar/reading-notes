@@ -26,12 +26,13 @@
 ### There are several jQuery methods to get and set information, but they do not always apply to all elements. 
 
 ### Such as: 
-`.html()` : returns only the content of the first element.
-`.each()` : retrieve the value of every element.
-`.text()` : returns the content from every element.
-`.val()`  : to get the content from `<input>` or `<textarea>` elements.
+`.html()` : returns only the content of the first element.  <br>
 
-<br>
+`.each()` : retrieve the value of every element. <br>
+
+`.text()` : returns the content from every element. <br>
+`.val()`  : to get the content from `<input>` or `<textarea>` elements. <br >
+
 
 ## Chaining: adding several methods to the same selector.
 
