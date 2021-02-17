@@ -15,9 +15,15 @@ You will apply CSS rules on the **grid container** *(parent element)* and on the
 
 #### So you have to define a container element
            display:grid ; 
+
+<br>
+
 #### then set the size of the columns and the rows
            grid-template-columns: 40px 50px auto 50px 40px;
            grid-template-rows: 25% 100px auto;
+
+<br>
+
 #### then put its child elements into the grid with grid column and grid row.
 
 <br>
