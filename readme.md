@@ -70,3 +70,4 @@
 |     Read04           |     [read04 link](https://bahazghayar.github.io/reading-notes/read04)                          |
 |     Read05           |     [read05 link](https://bahazghayar.github.io/reading-notes/read05)                          |
 |     Read06           |     [read06 link](https://bahazghayar.github.io/reading-notes/read06)                          |
+|     Read07           |     [read07 link](https://bahazghayar.github.io/reading-notes/read07)                          |
