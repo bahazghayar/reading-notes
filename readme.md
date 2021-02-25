@@ -73,3 +73,4 @@
 |     Read07           |     [read07 link](https://bahazghayar.github.io/reading-notes/read07)                          |
 |     Read08           |     [read08 link](https://bahazghayar.github.io/reading-notes/read08)                          |
 |     Read09           |     [read09 link](https://bahazghayar.github.io/reading-notes/read09)                          |
+|     Read10           |     [read10 link](https://bahazghayar.github.io/reading-notes/read10)                          |
