@@ -3,11 +3,11 @@
 ### **Embedded JavaScript templating** is a simple templating language that lets you generate HTML markup with plain JavaScript. No religiousness about how to organize things. No reinvention of iteration and control-flow. It's just plain JavaScript. *(from ejs.co)*
 
 ### Advantages of using EJS:
-* ## Fast development time.
-* ## Simple syntax.
-* ## Speedy execution.
-* ## Easy debugging.
-* ## Active development. 
+* ### Fast development time.
+* ### Simple syntax.
+* ### Speedy execution.
+* ### Easy debugging.
+* ### Active development. 
 
 <br>
 
