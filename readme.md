@@ -67,18 +67,19 @@
 
 ### Table Of Contents:
 
-| Reads  |                               Links                               |
-| :----: | :---------------------------------------------------------------: |
-| Read01 | [read01 link](https://bahazghayar.github.io/reading-notes/read01) |
-| Read02 | [read02 link](https://bahazghayar.github.io/reading-notes/read02) |
-| Read03 | [read03 link](https://bahazghayar.github.io/reading-notes/read03) |
-| Read04 | [read04 link](https://bahazghayar.github.io/reading-notes/read04) |
-| Read05 | [read05 link](https://bahazghayar.github.io/reading-notes/read05) |
-| Read06 | [read06 link](https://bahazghayar.github.io/reading-notes/read06) |
-| Read07 | [read07 link](https://bahazghayar.github.io/reading-notes/read07) |
-| Read08 | [read08 link](https://bahazghayar.github.io/reading-notes/read08) |
-| Read09 | [read09 link](https://bahazghayar.github.io/reading-notes/read09) |
-| Read10 | [read10 link](https://bahazghayar.github.io/reading-notes/read10) |
-| Read11 | [read11 link](https://bahazghayar.github.io/reading-notes/read11) |
-| Read12 | [read12 link](https://bahazghayar.github.io/reading-notes/read12) |
-| Read13 | [read13 link](https://bahazghayar.github.io/reading-notes/read13) |
+| Reads  |                               Links                                |
+| :----: | :---------------------------------------------------------------:  |
+| Read01 | [read01 link](https://bahazghayar.github.io/reading-notes/read01)  |
+| Read02 | [read02 link](https://bahazghayar.github.io/reading-notes/read02)  | 
+| Read03 | [read03 link](https://bahazghayar.github.io/reading-notes/read03)  |
+| Read04 | [read04 link](https://bahazghayar.github.io/reading-notes/read04)  |
+| Read05 | [read05 link](https://bahazghayar.github.io/reading-notes/read05)  |
+| Read06 | [read06 link](https://bahazghayar.github.io/reading-notes/read06)  |
+| Read07 | [read07 link](https://bahazghayar.github.io/reading-notes/read07)  |
+| Read08 | [read08 link](https://bahazghayar.github.io/reading-notes/read08)  |
+| Read09 | [read09 link](https://bahazghayar.github.io/reading-notes/read09)  |
+| Read10 | [read10 link](https://bahazghayar.github.io/reading-notes/read10)  |
+| Read11 | [read11 link](https://bahazghayar.github.io/reading-notes/read11)  |
+| Read12 | [read12 link](https://bahazghayar.github.io/reading-notes/read12)  |
+| Read13 | [read13 link](https://bahazghayar.github.io/reading-notes/read13)  |
+| Read14a| [read14a link](https://bahazghayar.github.io/reading-notes/read14a)|
