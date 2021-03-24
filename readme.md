@@ -91,6 +91,6 @@
 
 ### Table Of Contents:
 
-| Reads  |                               Links                                |
-| :----: | :---------------------------------------------------------------:  |
-| Read01 |                                                                    |
+| Reads  |                               Links                                                |
+| :----: | :--------------------------------------------------------------------------------: |
+| Read01 | [Node Ecosystem, TDD, CI/CD](https://bahazghayar.github.io/reading-notes/class01)  |
