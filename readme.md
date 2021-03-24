@@ -94,3 +94,4 @@
 | Reads  |                               Links                                                |
 | :----: | :--------------------------------------------------------------------------------: |
 | Read01 | [Node Ecosystem, TDD, CI/CD](https://bahazghayar.github.io/reading-notes/class01)  |
+| Read02 | [Express](https://bahazghayar.github.io/reading-notes/class02)                     |
