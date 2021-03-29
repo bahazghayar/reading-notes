@@ -95,3 +95,6 @@
 | :----: | :--------------------------------------------------------------------------------: |
 | Read01 | [Node Ecosystem, TDD, CI/CD](https://bahazghayar.github.io/reading-notes/class01)  |
 | Read02 | [Express](https://bahazghayar.github.io/reading-notes/class02)                     |
+| Read03 | [Express REST API](https://bahazghayar.github.io/reading-notes/class03)            |
+| Read04 | [Data Modeling](https://bahazghayar.github.io/reading-notes/class04)               |
+| Read05 | [Linked Lists](https://bahazghayar.github.io/reading-notes/class05)                |
