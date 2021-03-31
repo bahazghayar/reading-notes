@@ -4,9 +4,9 @@
 from(Wikipedia) 
 
 ### Types of Linked List:
-#### * Simple Linked List: Item navigation is forward only.
-#### * Doubly Linked List: Items can be navigated forward and backward.
-#### * Circular Linked List: Last item contains link of the first element as next and the first element has a link to the last element as previous.
+* #### Simple Linked List: Item navigation is forward only.
+* #### Doubly Linked List: Items can be navigated forward and backward.
+* #### Circular Linked List: Last item contains link of the first element as next and the first element has a link to the last element as previous.
 
 #### The first and last node of a linked list are called the head and tail of the list, we can traverse the list starting at the head and ending at the tail. The tail node is a special node, where the next pointer is always pointing or linking to a null reference, indicating the end of the list.
 
