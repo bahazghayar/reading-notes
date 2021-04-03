@@ -98,3 +98,9 @@
 | Read03 | [Express REST API](https://bahazghayar.github.io/reading-notes/class03)            |
 | Read04 | [Data Modeling](https://bahazghayar.github.io/reading-notes/class04)               |
 | Read05 | [Linked Lists](https://bahazghayar.github.io/reading-notes/class05)                |
+| Read06 | [Authentication](https://bahazghayar.github.io/reading-notes/class06)              |
+| Read07 | [Bearer Authorization](https://bahazghayar.github.io/reading-notes/class07)        |
+| Read08 | [Access Control (ACL)](https://bahazghayar.github.io/reading-notes/class08)        |
+| Read09 | [](https://bahazghayar.github.io/reading-notes/class09)                            |
+
+
