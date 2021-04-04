@@ -43,3 +43,18 @@ from(www.investopedia.com)
 
 ### Access Token: contains the security credentials for a login session and identifies the user, the user's groups, the user's privileges, and, in some cases, a particular application. Typically one may be asked to enter the access token (e.g. 40 random characters) rather than the usual password (it therefore should be kept secret just like a password).
 from (Wikipedia)
+
+# Preview 
+
+### JSON Web Token (JWT) is an Internet proposed standard for creating data with optional signature and/or optional encryption whose payload holds JSON that asserts some number of claims. The tokens are signed either using a private secret or a public/private key. For example, a server could generate a token that has the claim "logged in as admin" and provide that to a client. The client could then use that token to prove that it is logged in as admin. The tokens can be signed by one party's private key (usually the server's) so that party can subsequently verify the token is legitimate. If the other party, by some suitable and trustworthy means, is in possession of the corresponding public key, they too are able to verify the token's legitimacy. The tokens are designed to be compact,[2] URL-safe,[3] and usable especially in a web-browser single-sign-on (SSO) context. JWT claims can typically be used to pass identity of authenticated users between an identity provider and a service provider, or any other type of claims as required by business processes.
+from (Wikipedia)
+
+### When should you use JSON Web Tokens?
+* #### Authorization 
+* #### Information Exchange
+
+### JSON Web Token structure:
+1. #### Header
+2. #### Payload
+3. #### Signature
+
