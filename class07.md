@@ -1,13 +1,13 @@
 # Bearer Authorization
 
 ## Write the following steps in the correct order:
-Register your application to get a client_id and client_secret
-Ask the client if they want to sign in via a third party
-Receive authorization code
-Make a request to the access token endpoint
-Receive access token
-Make a request to a third-party API endpoint
-Redirect to a third party authentication endpoint
+### 1. Register your application to get a client_id and client_secret
+### 2. Ask the client if they want to sign in via a third party
+### 3. Redirect to a third party authentication endpoint
+### 4. Make a request to a third-party API endpoint
+### 5. Receive authorization code
+### 6. Make a request to the access token endpoint
+### 7. Receive access token
 
 ## What can you do with an authorization code?
 ### The only thing you can do with the authorization code is to make a request to get an access token.
@@ -54,7 +54,7 @@ from (Wikipedia)
 * #### Information Exchange
 
 ### JSON Web Token structure:
-1. #### Header
-2. #### Payload
-3. #### Signature
+#### 1. Header
+#### 2. Payload
+#### 3. Signature
 
