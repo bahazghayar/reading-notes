@@ -102,8 +102,10 @@
 | Read07 | [Bearer Authorization](https://bahazghayar.github.io/reading-notes/class07)        |
 | Read08 | [Access Control (ACL)](https://bahazghayar.github.io/reading-notes/class08)        |
 | Read09 | [OAuth](https://bahazghayar.github.io/reading-notes/class09)                       |
-|Read010 | [Stacks and Queues](https://bahazghayar.github.io/reading-notes/class10)           |
-|Read011 | [Event Driven Applications](https://bahazghayar.github.io/reading-notes/class11)   |
+| Read10 | [Stacks and Queues](https://bahazghayar.github.io/reading-notes/class10)           |
+| Read11 | [Event Driven Applications](https://bahazghayar.github.io/reading-notes/class11)   |
+| Read12 | [Socket.io](https://bahazghayar.github.io/reading-notes/class12)                   |
+| Read13 | [Message Queues](https://bahazghayar.github.io/reading-notes/class13)              |
 
 
 
