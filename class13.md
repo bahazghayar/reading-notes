@@ -11,13 +11,16 @@ Does socket.io use HTTP? Why?
 Yes, the initial connection setup it done over HTTP. Also, a socket.io server will attach to an HTTP server so it can serve its own client code through socket.io.
 
 What happens when a client emits an event?
+It will be connected to the server, so the server will recieve that emit and respond.
 
 What happens when a server emits an event?
+The client will recieve it and respond.
 
 What happens if a client “misses” an event?
+Nothing
 
 How can we mitigate this?
-
+By creating handlers for each event.
 
 ### Term
 
@@ -40,10 +43,6 @@ How can we mitigate this?
 **UDP**: User Datagram Protocol is one of the core members of the Internet protocol suite. With UDP, computer applications can send messages, in this case referred to as datagrams, to other hosts on an Internet Protocol (IP) network. Prior communications are not required in order to set up communication channels or data paths.
 
 **Packets**: is a small amount of data sent over a network, such as a LAN or the Internet. Similar to a real-life package, each packet includes a source and destination as well as the content (or data) being transferred.
-
-
-
-
 
 
 
