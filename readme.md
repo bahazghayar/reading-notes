@@ -106,6 +106,8 @@
 | Read11 | [Event Driven Applications](https://bahazghayar.github.io/reading-notes/class11)   |
 | Read12 | [Socket.io](https://bahazghayar.github.io/reading-notes/class12)                   |
 | Read13 | [Message Queues](https://bahazghayar.github.io/reading-notes/class13)              |
+| Read15 | [Trees](https://bahazghayar.github.io/reading-notes/class15)                       |
+
 
 
 
