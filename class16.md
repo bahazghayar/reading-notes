@@ -6,7 +6,7 @@
 FIFO queues have essentially the same features as standard queues, but provide the added benefits of supporting ordering and exactly-once processing. FIFO queues provide additional features that help prevent unintentional duplicates from being sent by message producers or from being received by message consumers.
 
 * How can the server be assured a message was properly received?
-
+When having an event in the client side to emit what received from the server.
 
 * What classic design pattern is best represented by event driven programming?
 The observer-pattern

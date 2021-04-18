@@ -6,7 +6,7 @@
 FIFO queues have essentially the same features as standard queues, but provide the added benefits of supporting ordering and exactly-once processing. FIFO queues provide additional features that help prevent unintentional duplicates from being sent by message producers or from being received by message consumers.
 
 * How can the server be assured a message was properly received?
-
+When having an event in the client side to emit what received from the server.
 
 * What classic design pattern is best represented by event driven programming?
 The observer-pattern
@@ -45,6 +45,15 @@ Benefits:
 * Query-in-place and process on-request.
 * Most supported cloud storage service.
 
+AWS Lambda is a serverless computing service provided by Amazon Web Services (AWS). Users of AWS Lambda create functions, self-contained applications written in one of the supported languages and runtimes, and upload them to AWS Lambda, which executes those functions in an efficient and flexible manner.
+
+Benefits:
+* No servers to manage
+* Continuous scaling
+* Cost optimized with millisecond metering
+* Consistent performance at any scale
+
+Content Delivery Network (CDN) is a geographically distributed group of servers that work together to provide fast delivery of Internet content. A CDN allows for the fast transfer of data needed for loading Internet content including HTML pages, javascript files, stylesheets, images, and videos.
 
 #### Resources:
 1. www.techopedia.com
