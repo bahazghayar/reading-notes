@@ -109,6 +109,8 @@
 | Read15 | [Trees](https://bahazghayar.github.io/reading-notes/class15)                       |
 | Read16 | [AWS: Cloud Servers](https://bahazghayar.github.io/reading-notes/class16)          |
 | Read17 | [AWS: S3 and Lambda](https://bahazghayar.github.io/reading-notes/class17)          |
+| Read18 | [AWS: API, Dynamo and Lambda](https://bahazghayar.github.io/reading-notes/class18) |
+
 
 
 
