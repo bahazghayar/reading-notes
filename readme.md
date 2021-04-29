@@ -111,6 +111,8 @@
 | Read17 | [AWS: S3 and Lambda](https://bahazghayar.github.io/reading-notes/class17)          |
 | Read18 | [AWS: API, Dynamo and Lambda](https://bahazghayar.github.io/reading-notes/class18) |
 | Read19 | [AWS: Events](https://bahazghayar.github.io/reading-notes/class19)                 |
+| Read26 | [Component Based UI](https://bahazghayar.github.io/reading-notes/class26)          |
+
 
 
 
