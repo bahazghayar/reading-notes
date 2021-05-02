@@ -2,21 +2,12 @@
 
 <br>
 
-#### My name is Baha aldeen Zghayar
-
-#### From Hebron - Palestine.
-
-#### I am 24 years old.
-
-#### I studied mechanical engineering at Philadelphia university.
-
-#### Interested in psychology and coding.
+#### I'am Baha aldeen Zghayar
+#### Full-Stack Developer with a background in mechanical engineering.
 
 ## "A room without books is like a body without a soul"
 
 #### Those summaries are what i added to my knowledge.
-
-#### Each link contains a summary of what i read each day in this course.
 
 <br>
 
@@ -112,6 +103,12 @@
 | Read18 | [AWS: API, Dynamo and Lambda](https://bahazghayar.github.io/reading-notes/class18) |
 | Read19 | [AWS: Events](https://bahazghayar.github.io/reading-notes/class19)                 |
 | Read26 | [Component Based UI](https://bahazghayar.github.io/reading-notes/class26)          |
+| Read27 | [Props and State](https://bahazghayar.github.io/reading-notes/class27)             |
+| Read28 | [Component Composition](https://bahazghayar.github.io/reading-notes/class28)       |
+| Read29 | [Routing](https://bahazghayar.github.io/reading-notes/class29)                     |
+
+
+
 
 
 
