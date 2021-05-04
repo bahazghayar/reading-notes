@@ -10,9 +10,10 @@ There is no way to pass props from a child component to a parent component. Howe
                 <Main>
                 <Content />
                 </Main>
+By putting it inside props.children
 
 3. Can a component, such as `<Content />`, which is a child also be used as a standalone component elsewhere in the application?
-
+Yes
 
 4. What trick can a parent use to share all props with it’s children
 When you have a React component who received some props (“properties”) from its parent component, and you want to pass all of those props on to this component’s child, then you need to pass the entire props object.
