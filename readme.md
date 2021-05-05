@@ -106,6 +106,8 @@
 | Read27 | [Props and State](https://bahazghayar.github.io/reading-notes/class27)             |
 | Read28 | [Component Composition](https://bahazghayar.github.io/reading-notes/class28)       |
 | Read29 | [Routing](https://bahazghayar.github.io/reading-notes/class29)                     |
+| Read30 | [Hash Tables](https://bahazghayar.github.io/reading-notes/class30)                 |
+
 
 
 
