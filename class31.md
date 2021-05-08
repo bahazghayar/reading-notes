@@ -7,7 +7,7 @@ Becuase we are using react-router-dom
 
 2. If we wanted a component to show up on every page, where would we put it and why?
 
-Inside the <BrowserRouter />, outside a <Route />
+Inside the `<BrowserRouter />`, outside a `<Route />`
 
 3. What does props.children contain?
 props. children does is that it is used to display whatever you include between the opening and closing tags when invoking a component. 
@@ -46,4 +46,3 @@ props. children does is that it is used to display whatever you include between 
 4. www.javatpoint.com
 5. Wikipedia
 6. reactjs.org
-7. 
