@@ -107,6 +107,10 @@
 | Read28 | [Component Composition](https://bahazghayar.github.io/reading-notes/class28)       |
 | Read29 | [Routing](https://bahazghayar.github.io/reading-notes/class29)                     |
 | Read30 | [Hash Tables](https://bahazghayar.github.io/reading-notes/class30)                 |
+| Read31 | [Hooks API](https://bahazghayar.github.io/reading-notes/class31)                   |
+| Read32 | [Custom Hooks](https://bahazghayar.github.io/reading-notes/class32)                |
+
+
 
 
 
