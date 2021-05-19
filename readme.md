@@ -111,6 +111,8 @@
 | Read32 | [Custom Hooks](https://bahazghayar.github.io/reading-notes/class32)                |
 | Read33 | [Context API](https://bahazghayar.github.io/reading-notes/class33)                 |
 | Read34 | [Login and Auth](https://bahazghayar.github.io/reading-notes/class34)              |
+| Read35 | [Graphs](https://bahazghayar.github.io/reading-notes/class35)                       |
+
 
 
 
