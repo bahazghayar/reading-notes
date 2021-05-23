@@ -113,6 +113,8 @@
 | Read34 | [Login and Auth](https://bahazghayar.github.io/reading-notes/class34)              |
 | Read35 | [Graphs](https://bahazghayar.github.io/reading-notes/class35)                      |
 | Read36 | [Application State with Redux](https://bahazghayar.github.io/reading-notes/class36)|
+| Read37 | [Redux - Combined Reducers](https://bahazghayar.github.io/reading-notes/class37)   |
+
 
 
 
