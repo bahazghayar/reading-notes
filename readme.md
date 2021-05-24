@@ -114,6 +114,10 @@
 | Read35 | [Graphs](https://bahazghayar.github.io/reading-notes/class35)                      |
 | Read36 | [Application State with Redux](https://bahazghayar.github.io/reading-notes/class36)|
 | Read37 | [Redux - Combined Reducers](https://bahazghayar.github.io/reading-notes/class37)   |
+| Read38 | [Redux - Asynchronous Actions](https://bahazghayar.github.io/reading-notes/class38)|
+| Read39 | [Redux - Additional Topics](https://bahazghayar.github.io/reading-notes/class39)   |
+
+
 
 
 
